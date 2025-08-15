@@ -1,1 +1,1 @@
-exclude: ['.READ-ME.txt', 'LICENSE.txt', 'testimonial.html', 'about.html']
+exclude: ['.READ-ME.txt', 'LICENSE.txt',]
