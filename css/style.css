@@ -271,6 +271,14 @@
     color: var(--light) !important;
 }
 
+.service-link {
+    color: #52565b
+}
+
+.service-link:hover{
+    color: #52565b
+}
+
 
 /*** Categories & Courses ***/
 .category img,
